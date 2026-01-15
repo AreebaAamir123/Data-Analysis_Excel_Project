@@ -1,4 +1,5 @@
 # Data-Analysis_Excel_Project
+[Project_1_dashboard(gif)](https://github.com/AreebaAamir123/Data-Analysis_Excel_Project/blob/main/Project_1_dashboard(gif).gif)
 
 
 ## Introduction
